@@ -41,7 +41,7 @@ while True:
                 continue
             
         elif file == "EXIT":
-            os.chdir("/Users/avneep")
+            os.chdir("/Users/<your username>")
             break
         
         flag = 1
